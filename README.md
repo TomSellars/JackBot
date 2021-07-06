@@ -1,2 +1,2 @@
 # JackBot
-Python Bot
+Python discord Bot
